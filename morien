@@ -1,0 +1,1 @@
+python runserver.py -u Moriena"$1" -p Margot1235 -l "$2" -k "AIzaSyBUCKjQWIOV3txeiuJdbH1o-sOHOU1Ravc" -st 6 -sd 5 -ns
